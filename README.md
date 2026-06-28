@@ -1,11 +1,11 @@
-
+Supply Chain Statistical Analysis 
 
 Descriptive statistics and hypothesis testing applied to a 3,000-order supply chain dataset, validating supplier performance, regional cost gaps, and demand patterns with rigorous statistical methods.
 
 
 Project Overview
 
-This is TDI Python Data Analysis Programme. The goal was to go beyond exploratory analysis and use formal hypothesis testing to confirm — or reject — patterns found in the data.
+This is Week TDI Python Data Analysis Programme. The goal was to go beyond exploratory analysis and use formal hypothesis testing to confirm — or reject — patterns found in the data.
 
 6 hypotheses were tested. 4 were confirmed significant. The findings include a statistically proven supplier performance gap, a large regional cost difference, and the surprising finding that demand is stable year-round despite visible month-to-month variation.
 
@@ -163,3 +163,4 @@ Data Analyst · Abuja, Nigeria
 
 LinkedIn · Portfolio
 
+Week 12 submission — TDI Python Data Analysis Programme, 2024
